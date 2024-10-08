@@ -259,10 +259,6 @@ public final class App {
         }
     }
 
-    static public void comandoMonkey() {
-
-    }
-
     static void listCarteras() {
 
         File fichero = new File(currentUsersHomeDir + File.separator + "BitcoinsManager" + File.separator + "carteres");
